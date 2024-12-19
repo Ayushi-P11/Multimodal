@@ -1,7 +1,4 @@
 # Multimodal-Sentiment-Analysis
-多模态情感分析——基于BERT+ResNet50的多种融合方法，数据学院人工智能课程第五次实验代码
-
-本项目基于Hugging Face和torchvision实现，共有五种融合方法（2Naive 3Attention），在Models文件夹中查看
 
 ## Project Structure
 
