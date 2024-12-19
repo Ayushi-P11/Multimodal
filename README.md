@@ -36,20 +36,10 @@
         |-- MVSA
             |-- labelResultAll
 
-## Requirements
+Requirements
+chardet==4.0.0 numpy==1.22.2 Pillow==9.2.0 scikit_learn==1.1.1 torch==1.8.2 torchvision==0.9.2 tqdm==4.63.0 transformers==4.18.0
 
-chardet==4.0.0
-numpy==1.22.2
-Pillow==9.2.0
-scikit_learn==1.1.1
-torch==1.8.2
-torchvision==0.9.2
-tqdm==4.63.0
-transformers==4.18.0
-
-```shell
 pip install -r requirements.txt
-```
 
 ## Model
 
